@@ -1,0 +1,66 @@
+@media (min-width: 320px) {
+	/*This clases are from landing-anatomy page*/
+	.heilz img {
+		width: 416px;
+		position: relative;
+	}
+	.heilz h1 {
+		font-size: 12em;	
+	}
+	.heilz3 {
+		padding-top: 5%;
+		font-size: 2em;
+	}
+	.heilz2 {
+		font-size: 2em;
+	}
+	.aml-landing-info {
+		margin-top: 450px;
+	}
+	.center-landing {
+		text-align: center;
+	}
+	.p2em h1 {
+		font-size: 4em;
+	}
+	.p2em p {
+		font-size: 2.5em;
+	}
+	.p2em h2 {
+		font-size: 3em;
+	}
+	.top-auto {
+		margin-top: -580px;
+	}
+	.right-float p {
+		font-size: 2.5em;
+	}
+	.right-float h2 {
+		font-size: 5em;
+		font-weight: bold;
+	}
+	.material-icons-aml {
+		text-align: center;
+	}
+	.fs-i {
+		font-size: 10em;
+	}
+	.fs-5 h1 {
+		font-size: 6em;
+	}
+	.fs-5 p {
+		font-size: 3em;
+	}
+	.fs-5 a {
+		font-size: 1.5em;
+	}
+	.top50 i {
+	margin-top: 50px;
+	}
+	.top50 p {
+	margin-top: 50px;
+	}
+	.topauto {
+		margin-top: 65px;
+	}
+}
