@@ -91,7 +91,7 @@
 	font-size: 100px;
 }
 .capuccino-back {
-	background-image: url("C:/Users/Guery/medicinaresources/textures/pink dust.png");
+	background-image: url('../textures/pink dust.png');
 	color: #fff4e6;
 	text-align: center;
 	border-bottom: 4px solid #854442;
