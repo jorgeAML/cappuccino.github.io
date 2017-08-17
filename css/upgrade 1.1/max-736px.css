@@ -1,0 +1,33 @@
+.heilz img {
+		width: 416px;
+		position: static;
+	}
+	.heilz h1 {
+		font-size: 2em;
+		padding-top: 520px;
+		
+	}
+	.heilz3 {
+		font-size: 12px;
+		padding-top: 50px;
+	}
+	.heilz2 {
+		font-size: 12px;
+	}
+	.topauto {
+		margin-top: 30px;
+	}
+	.fs-i {
+		font-size: 8em;
+	}
+	.fs-5 h1 {
+		font-size: 4em;
+	}
+	.fs-5 p {
+		font-size: 2em;
+	}
+	.fs-5 a {
+		font-size: 1.2em;
+	}
+
+}
