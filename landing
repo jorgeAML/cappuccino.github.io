@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <meta name="description" content="recursos medicina USAC San Carlos, facultad de ciencias medicas, anatomia, Fisiologia, bioquimica11usac, salud publica, Semiologia medica, decano, ayuda para estudiantes, presentaciones de anatomia, libros de anatomia">
+  <meta name="author" content="Jorge A.M.L. AML Productions y Solarin Industries.">
+  <link rel="icon" href="pictures/icon.png">
+  <meta name="twitter:dnt" content="on">
+	<title>Curso de Anatomia</title>
+	<link rel="stylesheet" media="(max-width: 854px)" href="css/upgrade 1.1/max-736px.css">
+    <link rel="stylesheet" media="(min-width: 860px)" href="css/upgrade 1.1/min-320px.css">
+	<link rel="stylesheet" type="text/css" href="css/upgrade 1.1/landing_anatomia.css">
+	<link href="css/theme-aml/capuccino.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" type="text/css" href="css/google/material-icon.woff.css">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+    <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" rel="stylesheet">
+    <link href="css/bootstrap/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <script src="css/bootstrap/ie-emulation-modes-warning.js"></script>
+    <!--Fonts of google-->
+    <link href="https://fonts.googleapis.com/css?family=Just+Another+Hand" rel="stylesheet">
+    <!--Icon Google-->
+    <link rel="stylesheet" type="text/css" href="css/whhg.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+<div class="heilz">
+	<img src="landing pictures/3765c625.jpeg">
+	
+	<h1>Anatomía</h1>
+	<h4 class="heilz3">MedicinaResources te ofrece los Recursos educativos de la Cátedra de Anatomía</h4>
+	<hr class="heilz4">
+	<h2 class="heilz2">Ver Recursos</h2>
+	<hr class="heilz4">
+</div>
+<div class="aml-landing-info container">
+	<div class="row">
+		<div class="col-md-12 center-landing p2em">
+			<h1>¿Qué Recursos Educativos tenemos?</h1>
+			<p>MedicinaResources ha recolectado los mejores recursos para tu estudio en el curso de Anatomía, esperamos que sean un apoyo vital para complementar aquello que no tengas.</p>
+			<hr class="aml-divider-landing">
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-4 center-landing p2em">
+			<a href="index_ana_programacion.html" class="aml-landing-href">
+			<h2 class="border-bottom1"><!--<i class="material-icons">date_range</i>--> Programación</h2>
+			<h1 class="aml-landing-back-numbers border-bottom2">12</h1>
+
+			</a>
+		</div>
+		<div class="col-md-4 center-landing p2em">
+			<a href="index_ana_libros.html" class="aml-landing-href">
+			<h2 class="border-bottom1"><!--<i class="material-icons">book</i>--> Libros de Anatomía</h2>
+			<h1 class="aml-landing-back-numbers border-bottom2">6</h1>
+			</a>
+		</div>
+		<div class="col-md-4 center-landing p2em">
+			<a href="anatomia.html" class="aml-landing-href">
+			<h2 class="border-bottom1"><!--<i class="material-icons">collections_bookmark</i>--> Resumenes</h2>
+			<h1 class="aml-landing-back-numbers border-bottom2">49</h1>
+			</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-4 center-landing p2em">
+			<a href="index_ana_presentaciones.html" class="aml-landing-href">
+			<h2 class="border-bottom1"><!--<i class="material-icons">collections</i>--> Presentaciones</h2>
+			<h1 class="aml-landing-back-numbers border-bottom2">14</h1>
+			</a>
+		</div>
+		<div class="col-md-4 center-landing p2em">
+			<a href="anatomia_cuestionario.html" class="aml-landing-href">
+			<h2 class="border-bottom1"><!--<i class="material-icons">collections_bookmark</i>--> Cuestionarios</h2>
+			<h1 class="aml-landing-back-numbers border-bottom2">37</h1>
+			</a>
+		</div>
+		<div class="col-md-4 center-landing p2em">
+			<a href="index_ana_parciales.html" class="aml-landing-href">
+			<h2 class="border-bottom1"><!--<i class="material-icons">collections_bookmark</i>--> Parciales</h2>
+			<h1 class="aml-landing-back-numbers border-bottom2">27</h1>
+			</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12 center-landing p2em">
+		<hr class="aml-divider-landing">
+			<p>A todo visitante le recordamos que los documentos, presentaciones y PDFs llevan la licencia de  "Creative Commons Atributions" el cual te permite el derecho de compartir, modificar y usar.</p>
+			
+		</div>
+	</div>
+</div>
+<div class="heilz">
+	<img class="top200 topborder" src="landing pictures/Mockup-1.png">
+</div>
+<div class="container-fluid capuccino-back">
+	<div class="row">
+		<div class="col-md-5 fs-5">
+			<i class="icon-coffee top50 fs-i"></i>
+			<h1>Capuccino</h1>
+		</div>
+		<div class="col-md-6 fs-5 top50">
+			<p class="">Ahora la sección de Anatomía fue construida con el nuevo tema "Capuccino" que te ofrece una navegación más rápida y pensado para aquellos días de desvelo reduciendo el cansancio, y porsupuesto para todo tipo de dispositivo.</p>
+			<hr class="Cappuccino-hr">
+			<p class="">He aquí algunos ejemplos:</p>
+			<div class="row">
+				<div class="col-md-5 fs-5 center-landing">
+					<div class="list-group-aml">
+						<a href="index_ana_programacion.html" class="list-group-item-aml">Programación<span class="badge-aml">12</span></a>
+						<a href="anatomia_cuestionario.html" class="list-group-item-aml">Cuestionarios<span class="badge-aml">37</span></a>
+					</div>
+					<div class="aml_capuf">
+					<a class="aml-anat center" href="medicinaresources_staticfiles/anatomia/parciales/Parciales 2012.zip"><i class="icon-download-alt"></i> Descargar Parciales 2012 </a>
+					</div>
+				</div>
+				<div class="media-aml topauto">
+         	 		 <div class="col-md-5" style="float: left; font-family: 'Raleway', sans-serif; margin-top: -10%; padding: 4%; text-align: center;"> 
+      <span style="color: #be9b7b; font-size: 12px;">Contacto</span>
+      <span style="color: #fff4e6; font-size: 12px;">medicinaofficialmail@gmail.com</span>
+      <span style="color: #fff4e6; font-size: 12px;">Santiago-Guatemala</span>
+      <span style="color: #be9b7b; font-size: 12px;">&reg;2017 MedicinaResources</span>
+      <span style="color: #be9b7b; font-size: 12px;">&reg;2014-2017 AML Productions.</span>
+      <span style="color: #be9b7b; font-size: 12px;">&reg;2004-2017 Solarin Industries</span>
+      <span><i class="icon-htmlfive" title="this page was created with html 5"></i></span> <span><i class="icon-cssthree" title="this page was created with css 3"></i></span>
+       <span><i class="icon-jquery" title="this page was created with jquery-3"></i></span> <span><i class="icon-ruby" title="this page was created with ruby Gems"></i></span>
+       <span style="color: #be9b7b; font-size: 12px;">Version: 1.1</span>
+
+
+      				</div>
+     	 		</div>
+		</div>
+			<div class="table-responsive">
+      			<table class="table table-striped">
+       			 <thead>
+         		 <tr>
+         		 <th style="color: #ffc425;">Código</th>
+         		 <th style="color: #fff4e6;">Contenido</th>
+         		 <th style="color: #d41243;">Semana</th>
+         		 <th style="color: #00aedb;">Descargar</th>
+         		 </tr>
+       			 </thead>
+        <tbody>
+          <tr style="background-color: #4b3832;">
+            <td style="font-size: 1.2rem;">2017A10A201PRE1</td>
+            <td>Clase Virtual Cabeza y Cráneo PPTX</td>
+            <td>1</td>
+            <td><a class="cap-a" href="medicinaresources_staticfiles/anatomia/presentaciones/01cabeza.pptx">Descargar</a></td>
+          </tr>
+          <tr>
+            <td style="font-size: 1.2rem;">2017A10A201PRE2</td>
+            <td>Clase Virtual Glándula Mamaria PDF</td>
+            <td>15</td>
+            <td><a class="cap-a" href="medicinaresources_staticfiles/anatomia/presentaciones/Clase Virtual de Glandula Mamaria semana 15.pdf">Descargar</a></td>
+          </tr>
+          </tbody>
+          </table>
+		</div>
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<h1>Sigue a los mejores en las comunidades Médicas</h1>
+		</div>
+		<div class="col-md-4">
+<a class="twitter-timeline" href="https://twitter.com/MedicaITerms">Tweets by MedicaITerms</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+		</div>
+	</div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="css\bootstrap\jquery.min.js"><\/script>')</script>
+    <script src="css\bootstrap\bootstrap.min.js"></script>
+    <script src="css\bootstrap\ie10-viewport-bug-workaround.js"></script>
+    <script type="text/javascript" src="java\cursos_oficiales.js"></script>
+    <script type="text/javascript" src="java\jquery-3.2.1.js "></script>
+</body>
+</html>
