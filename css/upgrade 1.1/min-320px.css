@@ -1,4 +1,36 @@
 @media (min-width: 320px) {
+	.idl19 img {
+		width: 280px;
+	}
+	.idl219 img {
+		width: 280px;
+	}
+	.vudiv219 img {
+		width: 280px;
+	}
+	#lbd19 {
+		/*We do like this because the margins are out of lines*/
+		margin-right: auto;
+		margin-left: -5%;
+		display: grid;
+		padding-right: auto;
+	}
+	.vudiv19 {
+		margin-right: auto;
+		margin-left: -5%;
+		display: grid;
+	}
+	.vu19 {
+		display: grid;
+		position: relative;
+	}
+	.asf_logo {
+		width: 290px;
+	}
+	.capuccino-container {
+		margin-left: 4%;
+		margin-bottom: 5%;
+	}
 	/*This clases are from landing-anatomy page*/
 	.heilz img {
 		width: 416px;
@@ -62,5 +94,29 @@
 	}
 	.topauto {
 		margin-top: 65px;
+	}
+	.aml-48 {
+		font-size: 68px;
+	}
+	.random-center {
+		margin-top: 60px;
+	}
+	.top-md20 {
+		margin-top: 20px;
+	}
+	.top-md40 {
+		margin-top: 40px;
+	}
+	.top-md60 {
+		margin-top: 60px;
+	}
+	.bottom-md40 {
+		margin-bottom: 40px;
+	}
+	.fancy-aml {
+		font-size: 6em;
+	}
+	.em2 {
+		font-size: 1.5em;
 	}
 }
