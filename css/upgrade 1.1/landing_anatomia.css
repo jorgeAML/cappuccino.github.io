@@ -103,3 +103,86 @@
 .aml_banner {
 	position: initial;
 }
+.random-grey {
+	background-image: url('../textures/ep_naturalblack.png');
+	color: 	#adcbe3;
+	border-top: 4px solid #2a4d69;	
+}
+.random-grey-hr {
+	border: 1.5px solid #63ace5;
+	margin-left: 45%;
+	margin-right: 45%;
+}
+.random-grey-hr-large {
+	border: 1.5px solid #2a4d69;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+/*Footer*/
+.img-footer {
+	margin-top: 6%;
+	height: 250px;
+	margin-left: 18%;
+}
+.random-center {
+	text-align: center;
+}
+.fancy-aml-i {
+	/*border-style: dashed;
+	padding: 1%;*/
+}
+.fancy-href {
+	color: #adcbe3;
+}
+.fancy-href:hover {
+	color: #f09609;
+	text-decoration-color: 	#ff5722;
+	text-decoration: none;
+}
+.fancy-aml {
+	background-image: url('../textures/every_cloud_has_a_silver_lining_by_caringwong-d98ofue.jpg');
+	background-repeat: repeat-x;
+	background-size: 50%;
+	background-position: bottom;
+	-webkit-font-smoothing: antialiased;
+	-webkit-background-clip:text;
+	background-clip: text;
+	-webkit-text-fill-color:transparent;
+	margin: 0;
+	-webkit-animation:BackgroundAnimated 15s linear infinite;
+    -moz-animation:BackgroundAnimated 15s linear infinite;
+    -ms-animation:BackgroundAnimated 15s linear infinite;
+    -o-animation:BackgroundAnimated 15s linear infinite;
+    animation:BackgroundAnimated 15s linear infinite;
+}
+ @keyframes BackgroundAnimated {
+    from {
+        background-position:0 0
+    }
+    to {
+        background-position:100% 0
+    }
+}
+    @-webkit-keyframes BackgroundAnimated {
+    from {
+        background-position:0 0
+    }
+    to {
+        background-position:100% 0
+    }
+}
+    @-ms-keyframes BackgroundAnimated {<     from {
+        background-position:0 0
+    }
+    to {
+        background-position:100% 0
+    }
+}
+    @-moz-keyframes BackgroundAnimated {
+    from {
+        background-position:0 0
+    }
+    to {
+        background-position:100% 0
+    }
+}
